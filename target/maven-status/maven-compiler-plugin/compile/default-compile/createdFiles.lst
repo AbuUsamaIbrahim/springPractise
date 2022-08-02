@@ -1,0 +1,10 @@
+springpractise\training\repository\UserRepository.class
+springpractise\training\config\dbConfig.class
+springpractise\training\TrainingApplication.class
+springpractise\training\util\DbInit.class
+springpractise\training\service\UserService.class
+springpractise\training\model\Role.class
+springpractise\training\model\User.class
+springpractise\training\controller\UserController.class
+springpractise\training\repository\RoleRepository.class
+springpractise\training\config\SecurityConfig.class
